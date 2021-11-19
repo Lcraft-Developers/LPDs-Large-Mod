@@ -70,16 +70,178 @@
       "ids": {},
       "registry_name": "crafting_lpd_rod",
       "path": "~/Items"
+    },
+    {
+      "name": "LPDBlock",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lpd_block",
+      "path": "~/Blocks"
+    },
+    {
+      "name": "CraftingLPDBlock",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crafting_lpd_block",
+      "path": "~/Blocks"
+    },
+    {
+      "name": "DecraftLPDBlcok",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "decraft_lpd_blcok",
+      "path": "~/Blocks"
+    },
+    {
+      "name": "WoddenMultitool",
+      "type": "tool",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wodden_multitool",
+      "path": "~/Tools"
+    },
+    {
+      "name": "IronMultitool",
+      "type": "tool",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_multitool",
+      "path": "~/Tools"
+    },
+    {
+      "name": "StoneMultitool",
+      "type": "tool",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_multitool",
+      "path": "~/Tools"
+    },
+    {
+      "name": "IronRod",
+      "type": "item",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_rod",
+      "path": "~/Items"
+    },
+    {
+      "name": "CraftingIronRod",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crafting_iron_rod",
+      "path": "~/Items"
+    },
+    {
+      "name": "LPDMultitool",
+      "type": "tool",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lpd_multitool",
+      "path": "~/Items"
+    },
+    {
+      "name": "CraftingLPDMultitool",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crafting_lpd_multitool",
+      "path": "~/Items"
+    },
+    {
+      "name": "LPDSpear",
+      "type": "tool",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lpd_spear",
+      "path": "~/Items"
+    },
+    {
+      "name": "CraftingLPDSpear",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crafting_lpd_spear",
+      "path": "~/Items"
+    },
+    {
+      "name": "LPDSword",
+      "type": "tool",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lpd_sword",
+      "path": "~/Items"
+    },
+    {
+      "name": "CraftingLPDSword",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crafting_lpd_sword",
+      "path": "~/Items"
+    },
+    {
+      "name": "LPDDimension",
+      "type": "dimension",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lpd_dimension",
+      "metadata": {
+        "ep": true
+      },
+      "path": "~/Items"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.lpds_large_mod.iron_multitool": "Iron Multitool",
       "item.lpds_large_mod.lpd_gem": "LPD Gem",
+      "item.lpds_large_mod.lpd_sword": "LPD Sword",
+      "item.lpds_large_mod.lpd_dimension": "LPD Dimension Portal Igniter",
+      "item.lpds_large_mod.wodden_multitool": "Wodden Multitool",
       "block.lpds_large_mod.lpd_ore": "LPD Ore",
       "item.lpds_large_mod.lpd_rod": "LPD Rod",
-      "item.lpds_large_mod.lpd_ingot": "LPD Ingot"
+      "item.lpds_large_mod.stone_multitool": "Stone Multitool",
+      "item.lpds_large_mod.lpd_ingot": "LPD Ingot",
+      "item.lpds_large_mod.iron_rod": "Iron Rod",
+      "item.lpds_large_mod.lpd_spear": "LPD Spear",
+      "block.lpds_large_mod.lpd_block": "LPD Block",
+      "item.lpds_large_mod.lpd_multitool": "LPD Multitool"
     }
   },
   "foldersRoot": {

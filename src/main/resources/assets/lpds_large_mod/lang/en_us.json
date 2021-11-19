@@ -1,6 +1,15 @@
 {
+  "item.lpds_large_mod.iron_multitool": "Iron Multitool",
   "item.lpds_large_mod.lpd_gem": "LPD Gem",
+  "item.lpds_large_mod.lpd_sword": "LPD Sword",
+  "item.lpds_large_mod.lpd_dimension": "LPD Dimension Portal Igniter",
+  "item.lpds_large_mod.wodden_multitool": "Wodden Multitool",
   "block.lpds_large_mod.lpd_ore": "LPD Ore",
   "item.lpds_large_mod.lpd_rod": "LPD Rod",
-  "item.lpds_large_mod.lpd_ingot": "LPD Ingot"
+  "item.lpds_large_mod.stone_multitool": "Stone Multitool",
+  "item.lpds_large_mod.lpd_ingot": "LPD Ingot",
+  "item.lpds_large_mod.iron_rod": "Iron Rod",
+  "item.lpds_large_mod.lpd_spear": "LPD Spear",
+  "block.lpds_large_mod.lpd_block": "LPD Block",
+  "item.lpds_large_mod.lpd_multitool": "LPD Multitool"
 }

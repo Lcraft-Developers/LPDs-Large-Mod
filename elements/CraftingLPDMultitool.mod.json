@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:LPDIngot"
+      },
+      {
+        "value": "CUSTOM:LPDIngot"
+      },
+      {
+        "value": "CUSTOM:LPDIngot"
+      },
+      {
+        "value": "CUSTOM:LPDIngot"
+      },
+      {
+        "value": "CUSTOM:LPDGem"
+      },
+      {
+        "value": "CUSTOM:LPDIngot"
+      },
+      {
+        "value": "CUSTOM:LPDRod"
+      },
+      {
+        "value": "CUSTOM:LPDRod"
+      },
+      {
+        "value": "CUSTOM:LPDRod"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:LPDMultitool"
+    },
+    "name": "crafting_lpd_multitool",
+    "namespace": "mod"
+  }
+}

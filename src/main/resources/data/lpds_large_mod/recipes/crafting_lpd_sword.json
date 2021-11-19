@@ -1,0 +1,36 @@
+{
+  "group": "lpds_large_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "lpds_large_mod:lpd_ingot"
+    },
+    "1": {
+      "item": "lpds_large_mod:lpd_ingot"
+    },
+    "2": {
+      "item": "lpds_large_mod:lpd_ingot"
+    },
+    "3": {
+      "item": "lpds_large_mod:lpd_rod"
+    },
+    "4": {
+      "item": "lpds_large_mod:lpd_block"
+    },
+    "5": {
+      "item": "lpds_large_mod:lpd_rod"
+    },
+    "7": {
+      "item": "lpds_large_mod:lpd_rod"
+    }
+  },
+  "result": {
+    "item": "lpds_large_mod:lpd_sword",
+    "count": 1
+  }
+}

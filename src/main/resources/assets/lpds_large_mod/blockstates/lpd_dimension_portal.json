@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "lpds_large_mod:block/lpd_dimension_portal_ew"
+    },
+    "axis=x": {
+      "model": "lpds_large_mod:block/lpd_dimension_portal_ns"
+    }
+  }
+}
