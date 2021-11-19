@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "lpds_large_mod:blocks/lpd_ore",
+    "particle": "lpds_large_mod:blocks/lpd_ore"
+  }
+}

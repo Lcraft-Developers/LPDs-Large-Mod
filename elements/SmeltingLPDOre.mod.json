@@ -1,0 +1,20 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "xpReward": 1.0,
+    "cookingTime": 25100,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "CUSTOM:LPDOre"
+    },
+    "blastingReturnStack": {
+      "value": "CUSTOM:LPDGem"
+    },
+    "name": "smelting_lpd_ore",
+    "namespace": "mod"
+  }
+}

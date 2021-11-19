@@ -1,0 +1,25 @@
+{
+  "group": "lpds_large_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "lpds_large_mod:lpd_gem"
+    },
+    {
+      "item": "lpds_large_mod:lpd_gem"
+    },
+    {
+      "item": "lpds_large_mod:lpd_gem"
+    },
+    {
+      "item": "lpds_large_mod:lpd_gem"
+    },
+    {
+      "item": "lpds_large_mod:lpd_gem"
+    }
+  ],
+  "result": {
+    "item": "lpds_large_mod:lpd_ingot",
+    "count": 1
+  }
+}

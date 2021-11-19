@@ -1,1 +1,6 @@
-{}
+{
+  "item.lpds_large_mod.lpd_gem": "LPD Gem",
+  "block.lpds_large_mod.lpd_ore": "LPD Ore",
+  "item.lpds_large_mod.lpd_rod": "LPD Rod",
+  "item.lpds_large_mod.lpd_ingot": "LPD Ingot"
+}

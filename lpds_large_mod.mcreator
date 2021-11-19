@@ -1,14 +1,103 @@
 {
   "id_map": {},
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "LPDOre",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lpd_ore",
+      "path": "~/Blocks"
+    },
+    {
+      "name": "LPDIngot",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lpd_ingot",
+      "path": "~/Items"
+    },
+    {
+      "name": "LPDGem",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lpd_gem",
+      "path": "~/Items"
+    },
+    {
+      "name": "LPDRod",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lpd_rod",
+      "path": "~/Items"
+    },
+    {
+      "name": "SmeltingLPDOre",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smelting_lpd_ore",
+      "path": "~/Blocks"
+    },
+    {
+      "name": "CraftingLPDGemToLPDIngot",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crafting_lpd_gem_to_lpd_ingot",
+      "path": "~/Items"
+    },
+    {
+      "name": "CraftingLPDRod",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crafting_lpd_rod",
+      "path": "~/Items"
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "item.lpds_large_mod.lpd_gem": "LPD Gem",
+      "block.lpds_large_mod.lpd_ore": "LPD Ore",
+      "item.lpds_large_mod.lpd_rod": "LPD Rod",
+      "item.lpds_large_mod.lpd_ingot": "LPD Ingot"
+    }
   },
   "foldersRoot": {
     "name": "~",
-    "children": []
+    "children": [
+      {
+        "name": "Blocks",
+        "children": []
+      },
+      {
+        "name": "Items",
+        "children": []
+      },
+      {
+        "name": "Tools",
+        "children": []
+      }
+    ]
   },
   "workspaceSettings": {
     "modid": "lpds_large_mod",

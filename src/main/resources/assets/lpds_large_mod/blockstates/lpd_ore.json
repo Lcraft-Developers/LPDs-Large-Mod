@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "lpds_large_mod:block/lpd_ore"
+    }
+  }
+}
